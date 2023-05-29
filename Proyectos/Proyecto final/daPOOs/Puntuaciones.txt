@@ -1,0 +1,10 @@
+Sur 84
+Norte 80
+Sur 72
+Alexis 68
+Sur 68
+Norte 67
+Norte 66
+Sur 64
+Alexis 42
+Sur 33

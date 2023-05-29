@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Kriptonita
+comment0.text=\r\n\ Tipo\ de\ c\u00E9lula\ que\ solo\ se\ activa\ con\ un\ vecino.\ \r\n\ En\ cada\ etapa\ se\ reproduce\ en\ las\ celdas\ vecinas\ vac\u00EDas.\r\n\ @author\ Angel\ Cuervo\ y\ Jefer\ Gonzalez\r\n\ @version\ 1.0\ (07/10/2022)\r\n
+comment1.params=am\ row\ column\ active
+comment1.target=Kriptonita(AManufacturing,\ int,\ int,\ boolean)
+comment1.text=\r\n\ Constructor\ para\ c\u00E9lulas\ de\ tipo\ Kriptonita.\r\n\ @param\ am\ AManufacturing\ donde\ se\ va\ ubicar\ la\ nueva\ c\u00E9lula\ Kriptonita.\r\n\ @param\ row\ Fila\ donde\ estar\u00E1\ ubicada\ la\ c\u00E9lula\ Kriptonita.\r\n\ @param\ column\ Columna\ donde\ estar\u00E1\ ubicada\ la\ c\u00E9lula\ Kriptonita.\ \r\n\ @param\ active\ Estado\ de\ la\ nueva\ c\u00E9lula\ Kriptonita.\r\n
+comment2.params=
+comment2.target=int\ shape()
+comment2.text=\r\n\ Da\ la\ forma\ que\ tiene\ la\ c\u00E9lula\ Kriptonita.\r\n\ @return\ Entero\ que\ representa\ la\ forma\ de\ la\ c\u00E9lula\ Kriptonita.\r\n
+comment3.params=
+comment3.target=void\ replicate()
+comment3.text=\r\n\ Replica\ la\ c\u00E9lula\ Kriptonita\ en\ las\ celdas\ vecinas\ que\ est\u00E1n\ vacias.\r\n
+comment4.params=
+comment4.target=void\ decide()
+comment4.text=\r\n\ Decide\ el\ proximo\ estado\ de\ la\ c\u00E9lula\ kriptonita.\r\n
+numComments=5

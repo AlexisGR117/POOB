@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Specialization
+comment0.text=\r\n\ Type\ of\ program\ that\ covers\ several\ courses.\r\n\ @author\ ESCUELA\ 2022-02\r\n
+comment1.params=name\ discount
+comment1.target=Specialization(java.lang.String,\ int)
+comment1.text=\r\n\ Constructs\ a\ new\ specializacion.\r\n\ @param\ name\ Name\ of\ the\ specializatin.\r\n\ @param\ discount\ Discount\ of\ the\ specialization.\r\n
+comment2.params=
+comment2.target=java.lang.String\ data()
+comment2.text=\r\n\ Represents\ the\ specialization\ information\ in\ a\ String.\r\n\ @return\ String\ with\ specialization\ information.\r\n\ @throws\ IEMOISException,\ if\ the\ price\ of\ some\ course\ is\ not\ available.\r\n
+comment3.params=
+comment3.target=int\ price()
+comment3.text=\r\n\ Return\ the\ price.\r\n\ @return\ The\ cost\ of\ the\ specialization.\r\n\ @throws\ IEMOISException,\ if\ the\ price\ is\ not\ available\ or\ the\ specialization\ is\ empty.\r\n
+comment4.params=
+comment4.target=int\ defaultPrice()
+comment4.text=\r\n\ Calculates\ the\ default\ price\ of\ a\ Specialization.\r\n\ For\ courses\ where\ the\ price\ cannot\ be\ known,\ the\ DEFAULT_PRICE\ is\ assumed.\ \r\n\ @return\ The\ defaul\ price\ of\ the\ specialization.\r\n\ @throws\ IEMOISException\ SPECIALIZATION_EMPTY,\ if\ it\ don't\ have\ courses.\r\n
+comment5.params=name
+comment5.target=int\ price(java.lang.String)
+comment5.text=\r\n\ Calculates\ the\ price\ of\ a\ course.\r\n\ @param\ name\ Name\ of\ the\ course\ that\ is\ in\ the\ specialization.\r\n\ @return\ The\ price\ of\ the\ course.\r\n\ @throws\ IEMOISException,\ if\ the\ price\ is\ not\ available.\r\n\ @throws\ IEMOISException\ COURSE_NO_EXIST,\ if\ the\ course\ no\ exist.\r\n\ @throws\ IEMOISException\ TWO_COURSES,\ if\ exist\ two\ courses\ with\ the\ same\ name.\r\n
+numComments=6

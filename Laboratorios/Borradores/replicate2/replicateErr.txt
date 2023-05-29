@@ -1,0 +1,7 @@
+Fuera del rango de 50x50 en la linea 9: '60'
+No se ha encontrado la clase en la linea 11: 'Imitadora'
+Fuera del rango de 50x50 en la linea 16: '-10'
+No es un número en la linea 3: 'Doce'
+Información insuficiente en la linea 7
+Se ha pasado un argumento ilegal o inapropiado en la linea 20
+

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Avion
+comment1.params=
+comment1.target=boolean\ getEnAire()
+comment2.params=
+comment2.target=Marino\ getPiloto()
+comment3.params=longitud\ latitud
+comment3.target=boolean\ seraDestruida(int,\ int)
+comment4.params=
+comment4.target=boolean\ maquinaDebil()
+comment5.params=
+comment5.target=void\ autoDestruirse()
+numComments=6

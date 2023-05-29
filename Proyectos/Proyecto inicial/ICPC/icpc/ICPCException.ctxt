@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ICPCException
+comment0.text=\r\n\ Clase\ excepci\u00F3n\ de\ ICPC.\r\n\r\n\ @author\ Angel\ Cuervo\ y\ Jefer\ Gonzalez.\r\n\ @version\ 1.0\ (30/10/2022)\r\n
+comment1.params=message
+comment1.target=ICPCException(java.lang.String)
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ clase\ ICPCException.\r\n
+numComments=2

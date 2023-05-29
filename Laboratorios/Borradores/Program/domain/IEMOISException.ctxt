@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IEMOISException
+comment0.text=\r\n\ Exception\ class\ of\ IEMOIS.\r\n\r\n\ @author\ Angel\ Cuervo\ y\ Jefer\ Gonzalez.\r\n\ @version\ 1.0\ (25/10/2022)\r\n
+comment1.params=message
+comment1.target=IEMOISException(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ IEMOISException\r\n
+numComments=2

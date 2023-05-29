@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Program
+comment0.text=\r\n\ Una\ unidad\ de\ ense\u00F1anza\ ofrecida\ por\ la\ decanatura\ durante\ el\ periodo\ intermedio\ a\ sus\ estudiantes\ en\ el\ proyecto\ IEMOIS.\r\n\ @author\ ESCUELA\ 2022-02\r\n
+comment1.params=
+comment1.target=java.lang.String\ name()
+comment1.text=\r\n\ Return\ the\ name.\r\n\ @return\ The\ name\ of\ the\ program.\r\n
+comment2.params=
+comment2.target=int\ price()
+comment2.text=\r\n\ Return\ the\ price.\r\n\ @return\ The\ cost\ of\ the\ program.\r\n\ @throws\ IEMOISException,\ if\ the\ price\ is\ not\ available.\r\n
+comment3.params=
+comment3.target=java.lang.String\ data()
+comment3.text=\r\n\ Return\ the\ representation\ as\ string\r\n\ @return\ String\ with\ program\ information.\r\n\ @throws\ IEMOISException,\ if\ the\ data\ is\ not\ complete\r\n
+numComments=4

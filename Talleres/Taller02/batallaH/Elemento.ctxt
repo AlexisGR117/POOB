@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Elemento
+comment1.params=
+comment1.target=void\ autoDestruirse()
+comment2.params=
+comment2.target=void\ destruir()
+comment3.params=
+comment3.target=boolean\ estaDestruido()
+numComments=4

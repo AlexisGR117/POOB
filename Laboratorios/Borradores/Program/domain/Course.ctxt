@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Course
+comment0.text=\r\n\ Type\ of\ program.\r\n\ @author\ ESCUELA\ 2022-02\r\n
+comment1.params=name\ price
+comment1.target=Course(java.lang.String,\ java.lang.Integer)
+comment1.text=\r\n\ Constructs\ a\ new\ course.\r\n\ @param\ name\ Name\ of\ the\ course.\r\n\ @param\ price\ Price\ of\ the\ course.\r\n
+comment2.params=
+comment2.target=int\ price()
+comment2.text=\r\n\ Return\ the\ price.\r\n\ @return\ The\ cost\ of\ the\ course.\r\n\ @throws\ IEMOISException,\ if\ the\ price\ is\ not\ available.\r\n
+comment3.params=
+comment3.target=java.lang.String\ data()
+comment3.text=\r\n\ Represents\ the\ course\ information\ in\ a\ String.\r\n\ @return\ String\ with\ course\ information.\r\n
+numComments=4

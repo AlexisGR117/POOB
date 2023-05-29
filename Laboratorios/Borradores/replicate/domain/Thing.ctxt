@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Thing
+comment0.text=\r\n\ Plantilla\ que\ generaliza\ el\ comportamiento\ de\ un\ elemento\ dentro\ de\ un\ AManufacturing.\r\n\ \r\n\ @author\ ESCUELA\ 2022-02\r\n
+comment1.params=
+comment1.target=void\ decide()
+comment1.text=\r\n\ Decide\ el\ siguiente\ estado\ del\ elemento.\r\n
+comment2.params=
+comment2.target=void\ change()
+comment2.text=\r\n\ Cambia\ el\ estado\ del\ elemento.\r\n
+comment3.params=
+comment3.target=void\ replicate()
+comment3.text=\r\n\ Replica\ un\ elemento.\r\n
+comment4.params=
+comment4.target=int\ shape()
+comment4.text=\r\n\ Da\ la\ forma\ que\ tiene\ el\ elemento.\r\n\ @return\ Entero\ que\ representa\ la\ forma\ del\ elemento.\r\n
+comment5.params=
+comment5.target=java.awt.Color\ getColor()
+comment5.text=\r\n\ Da\ el\ color\ que\ tiene\ el\ elemento.\r\n\ @return\ El\ color\ del\ elemento.\r\n
+comment6.params=
+comment6.target=boolean\ isActive()
+comment6.text=\r\n\ Dice\ si\ el\ elemento\ est\u00E1\ activo.\r\n\ @return\ Valor\ booleano\ que\ dice\ si\ el\ estado\ del\ elemento\ es\ activo.\r\n
+numComments=7

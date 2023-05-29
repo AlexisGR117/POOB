@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SpecializationTest
+comment0.text=\r\n\ Test\ class\ of\ specialization.\r\n\r\n\ @author\ Angel\ Cuervo\ y\ Jefer\ Gonzalez.\r\n\ @version\ 1.0\ (25/10/2022)\r\n
+comment1.params=
+comment1.target=void\ shouldCalculateTheCostOfASpecialization()
+comment2.params=
+comment2.target=void\ shouldThrowExceptionIfSpecializationHasNoCourses()
+comment3.params=
+comment3.target=void\ shouldThrowExceptionIfThereIsErrorInPrice()
+comment4.params=
+comment4.target=void\ shouldThrowExceptionIfPriceIsNotKnown()
+comment5.params=
+comment5.target=void\ shouldCalculateTheDefaultPriceOfASpecialization()
+comment6.params=
+comment6.target=void\ shouldThrowExceptionInCalculateTheDefaultPriceIfSpecializationHasNoCourses()
+comment7.params=
+comment7.target=void\ shouldCalculateThePriceOfACourseOfASpecialization()
+comment8.params=
+comment8.target=void\ shouldThrowExceptionIfExistTwoCoursesWithTheSameName()
+comment9.params=
+comment9.target=void\ shouldThrowExceptionIfTheCourseNoExist()
+numComments=10

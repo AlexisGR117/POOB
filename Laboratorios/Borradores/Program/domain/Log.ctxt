@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Log
+comment0.text=\r\n\ Class\ that\ is\ responsible\ for\ registering.\r\n
+comment1.params=e
+comment1.target=void\ record(java.lang.Exception)
+comment1.text=\r\n\ Take\ the\ exceptions\ obtained\ and\ log\ them\ in\ a\ file\ called\ IEMOIS.log\r\n\ @param\ e\ Exception\ to\ be\ logged.\r\n
+numComments=2

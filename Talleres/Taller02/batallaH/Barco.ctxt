@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Barco
+comment1.params=
+comment1.target=java.util.ArrayList\ getMarinos()
+comment2.params=longitud\ latitud
+comment2.target=boolean\ seraDestruida(int,\ int)
+comment3.params=
+comment3.target=boolean\ maquinaDebil()
+comment4.params=
+comment4.target=void\ autoDestruirse()
+numComments=5

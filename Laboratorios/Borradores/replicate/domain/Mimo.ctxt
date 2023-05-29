@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Mimo
+comment0.text=\r\n\ Tipo\ de\ c\u00E9lula\ que\ va\ imitando\ el\ estado\ de\ sus\ c\u00E9lulas\ vecinas,\ iniciando\ en\ direcci\u00F3n\ norte\ y\r\n\ siguiendo\ las\ manecillas\ del\ reloj.\r\n\ @author\ Angel\ Cuervo\ y\ Jefer\ Gonzalez\r\n
+comment1.params=am\ row\ column\ active
+comment1.target=Mimo(AManufacturing,\ int,\ int,\ boolean)
+comment1.text=\r\n\ Constructor\ para\ c\u00E9lulas\ de\ tipo\ mimo.\r\n\ @param\ am\ AManufacturing\ donde\ se\ va\ ubicar\ la\ nueva\ c\u00E9lula\ mimo.\r\n\ @param\ row\ Fila\ donde\ estar\u00E1\ ubicada\ la\ c\u00E9lula\ mimo.\r\n\ @param\ column\ Columna\ donde\ estar\u00E1\ ubicada\ la\ c\u00E9lula\ mimo.\ \r\n\ @param\ active\ Estado\ de\ la\ nueva\ c\u00E9lula\ mimo.\r\n
+comment2.params=
+comment2.target=void\ decide()
+comment2.text=\r\n\ Decide\ el\ proximo\ estado\ de\ la\ c\u00E9lula\ mimo.\r\n
+numComments=3

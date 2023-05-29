@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Unique
+comment0.text=\r\n\ Tipo\ de\ se\u00F1al\ que\ va\ ser\ la\ unica\ en\ la\ ruta\ y\ es\ valida\ para\ ambos\ extremos.\r\n\ \r\n\ @author\ Angel\ Cuervo\ y\ Jefer\ Gonzalez\r\n\ @version\ 1.0\ (17/10/2022)\r\n
+comment1.params=icpc\ sign\ route\ speedLimit
+comment1.target=Unique(ICPC,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ para\ se\u00F1ales\ de\ tipo\ Unique.\r\n\ @param\ speedLimit\ L\u00EDmite\ de\ velocidad\ que\ va\ llevar\ la\ se\u00F1al.\r\n\ @param\ x1\ Posici\u00F3n\ en\ x\ de\ la\ primera\ intersecci\u00F3n.\r\n\ @param\ y1\ Posici\u00F3n\ en\ y\ de\ la\ primera\ intersecci\u00F3n.\r\n\ @param\ x2\ Posici\u00F3n\ en\ x\ de\ la\ segunda\ intersecci\u00F3n.\r\n\ @param\ y2\ Posici\u00F3n\ en\ y\ de\ la\ segunda\ intersecci\u00F3n.\ \r\n
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=double[]\ distances(int,\ int,\ int,\ int)
+comment2.text=\r\n\ Da\ la\ posici\u00F3n\ de\ la\ se\u00F1al\ que\ va\ tener\ la\ se\u00F1al\r\n\ @param\ x1\ Posici\u00F3n\ en\ x\ de\ la\ primera\ intersecci\u00F3n.\r\n\ @param\ y1\ Posici\u00F3n\ en\ y\ de\ la\ primera\ intersecci\u00F3n.\r\n\ @param\ x2\ Posici\u00F3n\ en\ x\ de\ la\ segunda\ intersecci\u00F3n.\r\n\ @param\ y2\ Posici\u00F3n\ en\ y\ de\ la\ segunda\ intersecci\u00F3n.\ \r\n\ @return\ Arreglo\ con\ las\ ubicaciones\ en\ el\ eje\ x\ y\ en\ el\ eje\ y\ de\ la\ se\u00F1al.\r\n
+numComments=3

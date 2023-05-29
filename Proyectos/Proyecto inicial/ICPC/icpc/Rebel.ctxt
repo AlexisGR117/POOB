@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Rebel
+comment0.text=\r\n\ Tipo\ de\ ruta\ que\ no\ deja\ que\ le\ pongan\ se\u00F1ales.\r\n\ \r\n\ @author\ Angel\ Cuervo\ y\ Jefer\ Gonzalez\r\n\ @version\ 1.0\ (17/10/2022)\r\n
+comment1.params=icpc\ route
+comment1.target=Rebel(ICPC,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ para\ rutas\ de\ tipo\ Rebel.\r\n\ @param\ x1\ Posici\u00F3n\ en\ x\ de\ la\ primera\ intersecci\u00F3n.\r\n\ @param\ y1\ Posici\u00F3n\ en\ y\ de\ la\ primera\ intersecci\u00F3n.\r\n\ @param\ x2\ Posici\u00F3n\ en\ x\ de\ la\ segunda\ intersecci\u00F3n.\r\n\ @param\ y2\ Posici\u00F3n\ en\ y\ de\ la\ segunda\ intersecci\u00F3n.\ \r\n
+numComments=2

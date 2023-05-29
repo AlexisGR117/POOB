@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Rhomboid
+comment0.text=\r\n\ Un\ romboide\ que\ puede\ ser\ manipulado\ y\ representado\ en\ un\ canvas.\r\n\ \r\n\ @author\ Angel\ Cuervo\ y\ Jefer\ Gonzalez\ \r\n\ @version\ 1.0\ (31/08/2022)\r\n
+comment1.params=x1\ y1\ x2\ y2\ side\ color
+comment1.target=Rhomboid(int,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Crea\ un\ nueve\ romboide\ con\ unos\ tama\u00F1os,\ posici\u00F3n\ y\ color\ predefinidos.\r\n\ @param\ x1\ Posici\u00F3n\ en\ x\ del\ centro\ del\ primer\ lado\ recto.\r\n\ @param\ y1\ Posici\u00F3n\ en\ y\ del\ centro\ del\ primer\ lado\ recto.\r\n\ @param\ x2\ Posici\u00F3n\ en\ x\ del\ centro\ del\ segundo\ lado\ recto.\r\n\ @param\ y2\ Posici\u00F3n\ en\ y\ del\ centro\ del\ segundo\ lado\ recto.\r\n\ @param\ side\ Longitud\ de\ los\ lados\ rectos.\r\n\ @param\ color\ Color\ del\ romboide.\r\n
+comment2.params=
+comment2.target=void\ draw()
+comment2.text=\r\n\ Dibuja\ el\ romboide\ en\ la\ pantalla.\r\n
+comment3.params=
+comment3.target=void\ erase()
+comment3.text=\r\n\ Borra\ el\ romboide\ de\ la\ pantalla.\r\n
+numComments=4

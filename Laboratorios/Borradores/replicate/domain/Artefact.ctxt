@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Artefact
+comment0.text=\r\n\ Clase\ abstracta\ que\ generalizar\ el\ comportamiento\ y\ caracter\u00EDsticas\ de\ un\ artefacto\ dentro\ de\ un\ AManufacturing.\r\n\ @author\ ESCUELA\ 2022-02\r\n
+comment1.params=
+comment1.target=Artefact()
+comment1.text=\r\n\ Crea\ un\ nuevo\ artefacto.\r\n
+comment2.params=
+comment2.target=void\ step()
+comment2.text=\r\n\ Hace\ en\ el\ artefacto\ de\ un\ paso.\r\n
+comment3.params=
+comment3.target=int\ getSteps()
+comment3.text=\r\n\ Devuelve\ los\ pasos\ que\ ha\ dado\ el\ artefacto.\r\n\ @return\ N\u00FAmero\ entero\ que\ representa\ los\ pasos\ dados\ por\ el\ artefacto.\r\n
+comment4.params=
+comment4.target=boolean\ isActive()
+comment4.text=\r\n\ Dice\ si\ el\ artefacto\ est\u00E1\ activo.\r\n\ @return\ Valor\ booleano\ que\ dice\ si\ el\ estado\ del\ artefacto\ es\ activo.\r\n
+numComments=5

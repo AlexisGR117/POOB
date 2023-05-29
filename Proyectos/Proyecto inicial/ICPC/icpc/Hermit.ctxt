@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hermit
+comment0.text=\r\n\ Tipo\ de\ intersecci\u00F3n\ que\ solo\ permite\ una\ ruta.\r\n\ \r\n\ @author\ Angel\ Cuervo\ y\ Jefer\ Gonzalez\r\n\ @version\ 1.0\ (17/10/2022)\r\n
+comment1.params=icpc\ color\ x\ y
+comment1.target=Hermit(ICPC,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Contructor\ para\ intersecciones\ de\ tipo\ Needy.\r\n\ @param\ color\ Color\ con\ el\ que\ se\ identifica\ la\ intersecci\u00F3n.\r\n\ @param\ x\ Posici\u00F3n\ en\ x\ de\ la\ intersecci\u00F3n.\r\n\ @param\ y\ Posici\u00F3n\ en\ y\ de\ la\ intersecci\u00F3n.\r\n
+numComments=2
